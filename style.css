@@ -252,7 +252,7 @@ footer {
     width: 50%;
 }
 
-.section-7{
+.section-7 {
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -266,23 +266,29 @@ footer {
     color: #566573;
     padding: 0 5px;
 }
-.bottom-left h6{
+
+.bottom-left h6 {
     color: #566573;
 }
-.bottom-rigth{
+
+.bottom-rigth {
     display: flex;
     justify-content: space-between;
 }
-.all-list ul{
+
+.all-list ul {
     margin: 0;
 }
-.all-list li{
+
+.all-list li {
     list-style: none;
     color: #566573;
 }
-.all-list h5{
+
+.all-list h5 {
     margin-top: 0;
 }
-li:nth-child(1){
+
+li:nth-child(1) {
     color: #000;
 }
